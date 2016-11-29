@@ -4,5 +4,6 @@
     <string name="login_email_hint">Email</string>
     <string name="login_password_hint">Password</string>
     <string name="btn_text_login">Sign in</string>
+    <string name="login_url">&lt;a href=http://www.hellomyoffice.com&gt;Hello My Office 가입하기&lt;/a&gt; </string>
 
 </resources>
